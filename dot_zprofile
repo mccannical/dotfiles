@@ -1,0 +1,6 @@
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# Created by `pipx` on 2024-12-04 20:01:00
+export PATH="$PATH:/Users/jesse.mccann/.local/bin"
+export ANSIBLE_VAULT_PASSWORD_FILE="/Users/jesse.mccann/.config/dtex/vault-password"
+
